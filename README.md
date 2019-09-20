@@ -76,8 +76,6 @@ Mobichart For Modeling Mobile Computing Tasks IEEE TENCON 2003 (to appear) with 
 
 <li>A Geometric Approach to the Routing Problem in Ad Hoc Network, CS497 Report, Dept of CSE, IIT-Kanpur, Nov 2001 with Sohom Mazumdar and Sourabh Srivastava</li>
 
-Team Transaction: A New Transaction Processing Model for Mobile Ad Hoc Networks, Technical Report, Dept of CSE, IIT-Kanpur, Nov 2001 with Ankur Gupta, M. M. Gore, and Nitin Gupta</li>
-
 <li>A Distributed Location Tracking and Call Accounting System for Mobile and Non Mobile Users, Technical Report Dept of CSE, IIT-Kanpur, June 2001 with Chinmoy Das</li>
 
 <li>A Practical Parallel Algorithm for Finding the Block Tree of a Simply Connected Graph, Technical Report Dept of CSE, IIT-Kanpur, March 2001 with Nilabh Dev</li>

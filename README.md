@@ -5,30 +5,30 @@
 <br>
 <ul>
   <li>
-<href="https://www.springer.com/gp/book/9789811039409">Wireless Networking and Mobile Data Management, Springer Nature, Singapore, 546pages, ISBN :9811039402 9789811039409</href>
+<a href="https://www.springer.com/gp/book/9789811039409">Wireless Networking and Mobile Data Management</a>, Springer Nature, Singapore, 546pages, ISBN :9811039402 9789811039409. <a href="https://www.dropbox.com/s/25153c98bq7vpch/BookReview.pdf?dl=0">Book review</a>
     
 <li>Mobile Commerce , Allied Publishers Pvt Ltd, ISBN 81-7764-553-6, December 2003, collection edited jointly with H. Mohanty.</li>
 
-<li><href="https://www.amazon.com/Foundations-Parallel-Processing-R-K-Ghosh/dp/8173190321">Foundations of Parallel Processing, Narosa Publishing House ISBN 81-7319-042-9, 1995, co-authors: R. Moona and P. Gupta.</href></li>
+<li><a href="https://www.amazon.com/Foundations-Parallel-Processing-R-K-Ghosh/dp/8173190321">Foundations of Parallel Processing</a>, Narosa Publishing House ISBN 81-7319-042-9, 1995, co-authors: R. Moona and P. Gupta.</a></li>
     </ul>
 <br>
 <b>Book Chapters</b>
 <ul>
   <li> 
-    <href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6">
-      Chapter 5 - Crowdsensing and Privacy in Smart City Applications, with Raj Gaire, Jongkil Kim, Alexander Krumpholz, Rajiv Ranjan, R.K. Shyamasundar, Surya Nepal,Editor(s): Danda B. Rawat, Kayhan Zrar Ghafoor,Smart Cities Cybersecurity and Privacy,
+    <a href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6">
+      Chapter 5 - Crowdsensing and Privacy in Smart City Applications</a>, with Raj Gaire, Jongkil Kim, Alexander Krumpholz, Rajiv Ranjan, R.K. Shyamasundar, Surya Nepal,Editor(s): Danda B. Rawat, Kayhan Zrar Ghafoor,Smart Cities Cybersecurity and Privacy,
 Elsevier,2019,Pages 57-73
     </href></li>
  <li> 
- <href="https://www.crcpress.com/Handbook-of-Mobile-Systems-Applications-and-Services/Kumar-Xie/p/book/9781138199033">
-   Chapter 5 - Mobile Agents for Mobile Services, Editors: Anup Kumar and Bin Xie, Handbook of Mobile Systems Applications 
+ <a href="https://www.crcpress.com/Handbook-of-Mobile-Systems-Applications-and-Services/Kumar-Xie/p/book/9781138199033">
+   Chapter 5 - Mobile Agents for Mobile Services</a>, Editors: Anup Kumar and Bin Xie, Handbook of Mobile Systems Applications 
    and Services, Auerbach Publications, 2016 
    </href> 
 </li>
   
   <li>
-  <href="https://www.iitg.ac.in/gb/papers/smartcard_04.pdf">
-  Chapter 14 - Smart Card Based Protocol for Secure and Controlled Access of Mobile Hosts in IPV6 Compatible Foreign Networks, with G Barua and Abhinav Arora, in Advances in Security and Payment Methods for Mobile Commerce, Edited by Wen-Chen Hu et. al., Idea Group Publishing, 2005, pp. 312-337. 
+  <a href="https://www.iitg.ac.in/gb/papers/smartcard_04.pdf">
+  Chapter 14 - Smart Card Based Protocol for Secure and Controlled Access of Mobile Hosts in IPV6 Compatible Foreign Networks</a>, with G Barua and Abhinav Arora, in Advances in Security and Payment Methods for Mobile Commerce, Edited by Wen-Chen Hu et. al., Idea Group Publishing, 2005, pp. 312-337. 
   </href>
 </li>
   </ul>
@@ -38,8 +38,8 @@ Elsevier,2019,Pages 57-73
 <b>Edited Conference Proceedings</b>
 <br>
 <ul>
-<li><href="https://link.springer.com/conference/icdcit_">
-Distributed Computing & Internet Technology, LNCS 3347, Springer, ISSN: 0302-9743, 6 December 2004, proceedings of ICDCIT 2004 edited jointly with Hrushikesha Mohanty.</href></li>
+<li><a href="https://link.springer.com/conference/icdcit_">
+  Distributed Computing & Internet Technology, LNCS 3347,</a> Springer, ISSN: 0302-9743, 6 December 2004, proceedings of ICDCIT 2004 edited jointly with Hrushikesha Mohanty.</li>
   
 <li>Trends in Information Technology, Tata McGraw Hill, ISBN 0-07-043546-4 Proceedings of CIT 2000, December 2000, edited jointly with D. Mishra.</li>
 

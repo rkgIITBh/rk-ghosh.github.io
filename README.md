@@ -14,10 +14,23 @@
 <br>
 <b>Book Chapter</b>
 <ul>
-  <li> <href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6"> Chapter 5 - Crowdsensing and Privacy in Smart City Applications, with Raj Gaire, Jongkil Kim, Alexander Krumpholz, Rajiv Ranjan, R.K. Shyamasundar, Surya Nepal,
-Editor(s): Danda B. Rawat, Kayhan Zrar Ghafoor,
-Smart Cities Cybersecurity and Privacy,
-Elsevier,2019,Pages 57-73</href></li>
+  <li> 
+    <href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6">
+      Chapter 5 - Crowdsensing and Privacy in Smart City Applications, with Raj Gaire, Jongkil Kim, Alexander Krumpholz, Rajiv Ranjan, R.K. Shyamasundar, Surya Nepal,Editor(s): Danda B. Rawat, Kayhan Zrar Ghafoor,Smart Cities Cybersecurity and Privacy,
+Elsevier,2019,Pages 57-73
+    </href></li>
+ <li> 
+ <href="https://www.crcpress.com/Handbook-of-Mobile-Systems-Applications-and-Services/Kumar-Xie/p/book/9781138199033">
+   Chapter 5 - Mobile Agents for Mobile Services, Editors: Anup Kumar and Bin Xie, Handbook of Mobile Systems Applications 
+   and Services, Auerbach Publications, 2016 
+   </href> 
+</li>
+  
+  <li>
+  <href="https://www.iitg.ac.in/gb/papers/smartcard_04.pdf">
+  Smart Card Based Protocol for Secure and Controlled Access of Mobile Hosts in IPV6 Compatible Foreign Networks, with G Barua and Abhinav Arora, in Advances in Security and Payment Methods for Mobile Commerce, Edited by Wen-Chen Hu et. al., Idea Group Publishing, 2005, Chapter XIV, pp. 312-337. 
+  </href>
+</li>
   </ul>
   
 <br>

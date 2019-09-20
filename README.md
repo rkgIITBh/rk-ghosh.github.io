@@ -68,9 +68,11 @@ Mobichart For Modeling Mobile Computing Tasks IEEE TENCON 2003 (to appear) with 
 <b>Some Selected Technical Reports</b>
 <br>
 <ul>
-  <li><On Automated Restructuring of Distributed Algorithms for Mobile Computing, Tech Report, Dept of CSE,IIT Guwahati, July 2003, with J. V. Pavan Kumar and G. Sajith.</li>
+ <li> <href="https://arxiv.org/abs/1903.05474">An Integrated P2P Framework for E-Learning, with Kapil Dolas and Nikita Bhagatkar</href></li>
+  <li><href="https://arxiv.org/abs/1909.02599">Formal Methods and Event Notification Systems in Mobile Computing Environment, with Prashant Kumar</href> </li>
+  <li>On Automated Restructuring of Distributed Algorithms for Mobile Computing, Tech Report, Dept of CSE,IIT Guwahati, July 2003, with J. V. Pavan Kumar and G. Sajith.</li>
     
-<lI>Effect of Data Encryption on Wireless Ad Hoc Network Performance, Tech Report, Dept of CSE, IIT-Kanpur, June 2003, with Vijay K. Garg</li>
+<li>Effect of Data Encryption on Wireless Ad Hoc Network Performance, Tech Report, Dept of CSE, IIT-Kanpur, June 2003, with Vijay K. Garg</li>
 
 <li>A Geometric Approach to the Routing Problem in Ad Hoc Network, CS497 Report, Dept of CSE, IIT-Kanpur, Nov 2001 with Sohom Mazumdar and Sourabh Srivastava</li>
 

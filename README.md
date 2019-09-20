@@ -1,2 +1,2 @@
-# rkgPersonal
+# Dr. R. K. Ghosh
 Website

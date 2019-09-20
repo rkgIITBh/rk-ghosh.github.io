@@ -28,7 +28,7 @@ Elsevier,2019,Pages 57-73
   
   <li>
   <href="https://www.iitg.ac.in/gb/papers/smartcard_04.pdf">
-  Smart Card Based Protocol for Secure and Controlled Access of Mobile Hosts in IPV6 Compatible Foreign Networks, with G Barua and Abhinav Arora, in Advances in Security and Payment Methods for Mobile Commerce, Edited by Wen-Chen Hu et. al., Idea Group Publishing, 2005, Chapter XIV, pp. 312-337. 
+  Chapter 14 - Smart Card Based Protocol for Secure and Controlled Access of Mobile Hosts in IPV6 Compatible Foreign Networks, with G Barua and Abhinav Arora, in Advances in Security and Payment Methods for Mobile Commerce, Edited by Wen-Chen Hu et. al., Idea Group Publishing, 2005, pp. 312-337. 
   </href>
 </li>
   </ul>

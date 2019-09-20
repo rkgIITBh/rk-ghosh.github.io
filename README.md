@@ -12,7 +12,7 @@
 <li><href="https://www.amazon.com/Foundations-Parallel-Processing-R-K-Ghosh/dp/8173190321">Foundations of Parallel Processing, Narosa Publishing House ISBN 81-7319-042-9, 1995, co-authors: R. Moona and P. Gupta.</href></li>
     </ul>
 <br>
-<b>Book Chapter</b>
+<b>Book Chapters</b>
 <ul>
   <li> 
     <href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6">
@@ -46,7 +46,7 @@ Distributed Computing & Internet Technology, LNCS 3347, Springer, ISSN: 0302-974
 </ul>
   
 <br>  
-<b>Selected Publication </b>
+<b>Selected Publications </b>
 <br>
 
 <ul>

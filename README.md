@@ -17,23 +17,25 @@
   <li> <href="https://doi.org/10.1016/B978-0-12-815032-0.00005-6"> Chapter 5 - Crowdsensing and Privacy in Smart City Applications, with Raj Gaire, Jongkil Kim, Alexander Krumpholz, Rajiv Ranjan, R.K. Shyamasundar, Surya Nepal,
 Editor(s): Danda B. Rawat, Kayhan Zrar Ghafoor,
 Smart Cities Cybersecurity and Privacy,
-Elsevier,
-2019,Pages 57-73</href></li>
-  
+Elsevier,2019,Pages 57-73</href></li>
   </ul>
+  
 <br>
-<ul>
-  <br>
+<br>
 <b>Edited Conference Proceedings</b>
 <br>
 <ul>
 <li><href="https://link.springer.com/conference/icdcit_">
 Distributed Computing & Internet Technology, LNCS 3347, Springer, ISSN: 0302-9743, 6 December 2004, proceedings of ICDCIT 2004 edited jointly with Hrushikesha Mohanty.</href></li>
+  
 <li>Trends in Information Technology, Tata McGraw Hill, ISBN 0-07-043546-4 Proceedings of CIT 2000, December 2000, edited jointly with D. Mishra.</li>
+
 </ul>
-<br>
+  
+<br>  
 <b>Selected Publication </b>
 <br>
+
 <ul>
 <li>Cooperative Black Hole and Gray Hole Attacks in Mobile Ad Hoc Networks, International Conference on Ubiquitous Information Communication and Management (ACM ICUICM 2008), Suwon, Republic of Korea (Invited paper), with Piyush Agrawal and Sajal K. Das.</li>
 <li>Augmentation to GT4 Framework for B2B Collaboration over Grid, Proceedings of ICDCIT 2007, Bangalore, December 2007 (LNCS vol 4882, pages 336-344), with Jitendra Singh and K. N. Praveen.</li>

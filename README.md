@@ -50,6 +50,31 @@ Distributed Computing & Internet Technology, LNCS 3347, Springer, ISSN: 0302-974
 <br>
 
 <ul>
+ <li>
+ 
+GMP2P: Mobile P2P over GSM for Efficient File Sharing, with Sumit Kumar Tetarave, Somanath Tripathy, ICDCIT 2018: 217-231</li>
+ <li> V-Chord: An efficient file sharing on LTE/GSM Network.with Sumit Kumar Tetarave, Somanath Tripathy, ICDCN 2018: 38:1-38:8</li>
+
+<li>A framework of community inspired distributed message dissemination and emergency alert response system over smart phones.
+  with Abhiroop Bhatnagar, A Kumar and R. K. Shyamasunder, COMSNETS 2016: 1-8</li>
+  
+  <li> 
+Holistic Performance Monitoring of Hybrid Clouds: Complexities and Future Directions, with  Maitreya Natu, R. K. Shyamsundar, Rajiv Ranjan: IEEE Cloud Computing 3(1): 72-81 (2016).
+  </li>
+ <li>
+Adaptive Monitoring: Application of Probing to Adapt Passive Monitoring, with Deepak Jeswani, Maitreya Natu,  J. Network Syst. Manage. 23(4): 950-977 (2015)</li>
+  
+<li>R. K. Ghosh, Vinit Kataria, Vedant Mishra:
+Indoor navigation system using optical mouse sensor and smartphone. IPIN 2014: 426-430</li>
+
+<li>Avinash Chaurasia, Utkarsh Dubey, R. K. Ghosh:
+A robust key management scheme with strong connectivity for wireless sensor network. CTS 2012: 190-194</li>
+
+<li>Adaptive monitoring: a framework to adapt passive monitoring using probing, with Deepak Jeswani and Maitreya Natu. In Proceeding
+CNSM '12 Proceedings of the 8th International Conference on Network and Service Management
+Pages 350-356.</li>
+ <li>Postorder Based Routing and Transport Protocol for WSNs, with Shashank Shekhar, Ranjeet Mishra, R. K. Ghosh, R. K. Shyamasundar, ICDCN 2012: 281-294. Revised and updated version appeared in Pervasive and Mobile Computing 11: 229-243 (2014)</li>
+ 
 <li>Cooperative Black Hole and Gray Hole Attacks in Mobile Ad Hoc Networks, International Conference on Ubiquitous Information Communication and Management (ACM ICUICM 2008), Suwon, Republic of Korea (Invited paper), with Piyush Agrawal and Sajal K. Das.</li>
 <li>Augmentation to GT4 Framework for B2B Collaboration over Grid, Proceedings of ICDCIT 2007, Bangalore, December 2007 (LNCS vol 4882, pages 336-344), with Jitendra Singh and K. N. Praveen.</li>
 <li>Localization of Wireless Sensor Nodes Using Proximity Information, 16th IEEE International Conference on Computers Communication and Networks (ICCCN 07), Hawai, August 13-16, 2007 (Invited paper) , with Piyush Agrawal and Sajal K. Das</li>
